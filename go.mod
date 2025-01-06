@@ -1,3 +1,3 @@
 module github.com/hujm2023/hlog
 
-go 1.21.5
+go 1.20
